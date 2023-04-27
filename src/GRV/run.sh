@@ -1,0 +1,1 @@
+python main.py --EXP_hazard 0.5 --acc_thres -3 --agg_hour 1 --dataset kwai --end_time 168 --noEXP_hazard 0.5 --pctr 0 --play_rate 0 --model_name COX --random_seed 1234 --start_time 24 --load 1 --train 0 --prediction_dataset kwai_0412 --prediction_path ../prediction/COX/COX_0412_24h
