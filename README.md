@@ -23,4 +23,4 @@ Currently under constructions.
 }
 ```
 
-For inquiries, contact Jiayin Wang (alicethu0208 AT gmail.com).
+For inquiries, contact Jiayin Wang (JiayinWangTHU AT gmail.com).
